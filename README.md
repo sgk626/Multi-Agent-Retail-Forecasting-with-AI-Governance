@@ -171,7 +171,7 @@ setx OPENAI_API_KEY "your-key"     # Windows; use export on macOS/Linux
 ```
 
 Download the dataset from Kaggle, set `DATA_DIR` in the second cell, and run
-`Walmart_Forecasting_Langgraph.ipynb` top to bottom. The agent sections need an API key;
+`Walmart Forecasting_Langgraph.ipynb` top to bottom. The agent sections need an API key;
 everything up to and including the benchmark runs without one. No key appears anywhere in
 the notebook.
 
